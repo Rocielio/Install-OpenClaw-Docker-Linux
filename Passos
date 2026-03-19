@@ -1,0 +1,3 @@
+https://elirigobeli.notion.site/clawdbot-docker
+
+curl -fsSL https://openclaw.ai/install.sh | bash
